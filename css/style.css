@@ -1,0 +1,17 @@
+.background{
+    background-color:#fceae8 ;
+    border-color: #fceae8;
+}
+.categories img{
+    width:100px;
+
+}
+.button{
+    width:139.53px;
+    height:42px;
+    color:white;
+    background-color: #ff3383;
+    border-radius: 8px;
+    border:none;
+    padding:9px 25px;
+}
